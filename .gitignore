@@ -5,9 +5,9 @@
 .yarn/install-state.gz
 
 # next.js
-/.next/
+/.next
 
-.env
+*.env
 
 # typescript
 *.tsbuildinfo
